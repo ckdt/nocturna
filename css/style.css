@@ -182,7 +182,8 @@ body {
   font-weight: 700;
   line-height: 95%;
   
-  letter-spacing: -0.175rem;
+  letter-spacing: -0.0425em;
+  /*letter-spacing: -0.175rem;*/
   margin-bottom: 0.75rem;
 }
 .type--M{
